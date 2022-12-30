@@ -14,7 +14,7 @@ require (
 	github.com/davidddw/gopj v0.0.0-20200226031843-c152b84bb222
 	github.com/elazarl/go-bindata-assetfs v1.0.0
 	github.com/gin-gonic/contrib v0.0.0-20191209060500-d6e26eeaa607
-	github.com/gin-gonic/gin v1.5.0
+	github.com/gin-gonic/gin v1.7.0
 	github.com/go-redis/redis v6.14.2+incompatible
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/go-xorm/xorm v0.7.9
@@ -32,8 +32,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/tidwall/gjson v1.5.0
-	golang.org/x/crypto v0.0.0-20191205180655-e7c4368fe9dd
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	golang.org/x/text v0.3.2
-	golang.org/x/tools v0.0.0-20200225230052-807dcd883420 // indirect
 	gopkg.in/ini.v1 v1.52.0
 )
