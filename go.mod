@@ -32,8 +32,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/tidwall/gjson v1.5.0
-	golang.org/x/crypto v0.0.0-20191205180655-e7c4368fe9dd
-	golang.org/x/text v0.3.2
-	golang.org/x/tools v0.0.0-20200225230052-807dcd883420 // indirect
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/text v0.3.8
 	gopkg.in/ini.v1 v1.52.0
 )
